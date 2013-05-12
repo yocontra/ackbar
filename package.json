@@ -1,0 +1,8 @@
+{
+  "dependencies":{
+    "request":"*",
+    "Faker":"*",
+    "coffee-script":"*",
+    "async":"*"
+  }
+}
